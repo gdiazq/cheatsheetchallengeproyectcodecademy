@@ -1,0 +1,45 @@
+body {
+    background-color: rgba(128, 128, 128, 0.315);
+}
+
+h1 {
+    color: black;
+    font-family: Arial, 'sans-serif';
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: #663399;
+    font-family: Arial, 'sans-serif';
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid #9932cc;
+    width: 700px;
+}
+
+th {
+    border-top: 1px solid #9932cc;
+    font-family: Arial, 'sans-serif';
+    text-align: start;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.left {
+    font-family: monospace;
+    background-color: #f5f5dc;
+    font-size: 12px;
+    font-weight: 200;
+    margin-right: 50px;
+    border: 1px solid paleturquoise;
+}
+
+.heading {
+    background-color: #dda0dd;
+    font-size: 16px;
+    font-weight: bolder;
+    text-align: center;
+}
